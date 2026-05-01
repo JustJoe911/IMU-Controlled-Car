@@ -13,7 +13,7 @@
  *    MOSI → GPIO 23     MISO → GPIO 19
  *    SCK  → GPIO 18
  *
- *  LED (Calibration Indicator):
+ *  LED & Buzzer (Calibration Indicator):
  *    LED  → GPIO 2
  * ============================================================
  */
